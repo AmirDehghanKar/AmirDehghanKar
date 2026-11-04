@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b0d12,45:1f6fc2,100:e5383b&text=AmirMohammad%20Dehghankar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=%D8%A7%D9%85%DB%8C%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D8%AF%D9%87%D9%82%D8%A7%D9%86%E2%80%8C%DA%A9%D8%A7%D8%B1&descSize=24&descAlignY=60&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b0d12,45:1f6fc2,100:e5383b&text=AmirMohammad%20Dehghankar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=%D8%A7%D9%85%DB%8C%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D8%AF%D9%87%D9%82%D8%A7%D9%86%DA%A9%D8%A7%D8%B1&descSize=24&descAlignY=60&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/AmirDehghanKar">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4DA8FF&center=true&vCenter=true&width=650&lines=WordPress+Web+Designer+%F0%9F%8E%A8;Python+Developer+%F0%9F%90%8D;AI-Powered+Builder+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 
 ## 👋 درباره من
 
-سلام! من **امیرمحمد دهقان‌کار** هستم؛ طراح وب‌سایت با **وردپرس** و برنامه‌نویس **پایتون**. عاشق ساختن پروژه‌های بزرگ و یادگرفتن چیزهای جدیدم و معتقدم **هوش مصنوعی** بهترین دستیار برای سرعت گرفتن است، به شرطی که لمس انسانی را به آن اضافه کنیم 🎯
+سلام! من **امیرمحمد دهقانکار** هستم؛ طراح وب‌سایت با **وردپرس** و برنامه‌نویس **پایتون**. عاشق ساختن پروژه‌های بزرگ و یادگرفتن چیزهای جدیدم و معتقدم **هوش مصنوعی** بهترین دستیار برای سرعت گرفتن است، به شرطی که لمس انسانی را به آن اضافه کنیم 🎯
 
 | | |
 |:--|:--|
