@@ -26,7 +26,7 @@
 
 ## 👋 درباره من
 
-سلام! من **امیرمحمد دهقان‌کار** هستم؛ طراح وب‌سایت با **وردپرس** و برنامه‌نویس **پایتون**. عاشق ساختن پروژه‌های بزرگ و یادگرفتن چیزهای جدیدم و معتقدم **هوش مصنوعی** بهترین دستیار برای سرعت گرفتن است، به شرطی که لمس انسانی را به آن اضافه کنیم 🎯
+سلام! من **امیرمحمد دهقانکار** هستم؛ طراح وب‌سایت با **وردپرس** و برنامه‌نویس **پایتون**. عاشق ساختن پروژه‌های بزرگ و یادگرفتن چیزهای جدیدم و معتقدم **هوش مصنوعی** بهترین دستیار برای سرعت گرفتن است، به شرطی که لمس انسانی را به آن اضافه کنیم 🎯
 
 | | |
 |:--|:--|
@@ -34,7 +34,7 @@
 | 🌱 **در حال یادگیری** | پایتون پیشرفته، ادغام هوش مصنوعی و کار تیمی حرفه‌ای با Git |
 | 👯 **دنبال همکاری در** | پروژه‌های تیمی: وب‌اپ، ابزارهای اتوماسیون و محصولات مبتنی بر هوش مصنوعی |
 | 🤝 **کمک می‌خواهم برای** | یادگرفتن از توسعه‌دهندگان باتجربه و مشارکت در پروژه‌های بزرگ‌تر |
-| 💬 **از من بپرس درباره** | مهندسی پرامپت و گردش‌کارهای هوش مصنوعی 🤖 |
+| 💬 **از من بپرس درباره** | مهندسی پرامپت و گردش‌کارهای هوش مصنوعی |
 | ⚡ **نکته جالب** | کارهای سنگین را به AI می‌سپارم، بعد لمس انسانی را اضافه می‌کنم |
 
 </div>
@@ -53,7 +53,7 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 | 🌱 **Currently learning** | Advanced Python, AI integration, and professional team workflows with Git |
 | 👯 **Looking to collaborate on** | Team projects: web apps, automation tools, and AI-driven products |
 | 🤝 **Looking for help with** | Learning from experienced developers and contributing to bigger projects |
-| 💬 **Ask me about** | Prompt engineering & AI workflows 🤖 |
+| 💬 **Ask me about** | Prompt engineering & AI workflows |
 | ⚡ **Fun fact** | I let AI do the heavy lifting, then add the human touch |
 
 ---
@@ -63,7 +63,7 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 <div align="center">
 
 <a href="https://github.com/AmirDehghanKar/ActivityTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirDehghanKar&repo=ActivityTracker&theme=transparent&title_color=ffc300&icon_color=ffc300&text_color=8b949e&border_color=003566&show_owner=true" alt="ZISTRO" />
+  <img src="https://img.shields.io/badge/ZISTRO-Android%20App-003566?style=for-the-badge&logo=android&logoColor=ffc300" alt="ZISTRO" />
 </a>
 
 **ZISTRO** — اپلیکیشن اندروید برای پیگیری فعالیت‌های روزانه با تقویم شمسی، امتیازدهی رنگی و یادآوری هوشمند
@@ -96,14 +96,9 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmirDehghanKar&show_icons=true&hide_border=false&bg_color=0d1117&title_color=ffc300&icon_color=ffc300&text_color=c9d1d9&border_color=003566&locale=en" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDehghanKar&layout=compact&bg_color=0d1117&title_color=ffc300&text_color=c9d1d9&border_color=003566&locale=en" alt="top languages" />
+<img src="https://img.shields.io/github/followers/AmirDehghanKar?style=for-the-badge&logo=github&color=003566&labelColor=0d1117" alt="followers" />
 
 <img src="https://streak-stats.demolab.com?user=AmirDehghanKar&theme=dark&background=0D1117&ring=FFC300&fire=FFC300&currStreakLabel=FFC300&border=003566" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmirDehghanKar&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirDehghanKar&bg_color=0d1117&color=ffc300&line=ffc300&point=ffffff&area=true&area_color=003566&hide_border=true" alt="activity graph" />
 
 </div>
 
