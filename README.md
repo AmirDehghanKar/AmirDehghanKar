@@ -66,13 +66,12 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 
 ### ZISTRO
 
-**ZISTRO** — اپلیکیشن اندروید برای پیگیری فعالیت‌های روزانه با تقویم شمسی، امتیازدهی رنگی و یادآوری هوشمند
+ اپلیکیشن اندروید برای پیگیری فعالیت‌های روزانه با تقویم شمسی، امتیازدهی رنگی و یادآوری هوشمند
 <br/>
 *An Android app for daily activity tracking with a Jalali calendar, color-coded scoring and smart reminders*
 
 <br/>
 
-<a href="https://github.com/AmirDehghanKar/ActivityTracker"><img src="https://img.shields.io/badge/Source-GitHub-2f8fe8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d12" alt="source" /></a>
 <a href="https://github.com/AmirDehghanKar/ActivityTracker/releases/latest"><img src="https://img.shields.io/badge/Download-APK-e5383b?style=for-the-badge&logo=android&logoColor=white&labelColor=0b0d12" alt="download" /></a>
 
 </div>
@@ -129,7 +128,7 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 
 <div align="center">
 
-*«I let AI do the heavy lifting, then add the human touch.»* 🎯
+*«I let AI do the heavy lifting, then add the human touch.»*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:e5383b,50:1f6fc2,100:0b0d12&section=footer" alt="footer" />
 
