@@ -34,7 +34,7 @@
 | 🌱 **در حال یادگیری** | پایتون پیشرفته، ادغام هوش مصنوعی و کار تیمی حرفه‌ای با Git |
 | 👯 **دنبال همکاری در** | پروژه‌های تیمی: وب‌اپ، ابزارهای اتوماسیون و محصولات مبتنی بر هوش مصنوعی |
 | 🤝 **کمک می‌خواهم برای** | یادگرفتن از توسعه‌دهندگان باتجربه و مشارکت در پروژه‌های بزرگ‌تر |
-| 💬 **از من بپرس درباره** | مهندسی پرامپت و گردش‌کارهای هوش مصنوعی 🤖 |
+| 💬 **از من بپرس درباره** | مهندسی پرامپت و گردش‌کارهای هوش مصنوعی |
 | ⚡ **نکته جالب** | کارهای سنگین را به AI می‌سپارم، بعد لمس انسانی را اضافه می‌کنم |
 
 </div>
@@ -53,7 +53,7 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 | 🌱 **Currently learning** | Advanced Python, AI integration, and professional team workflows with Git |
 | 👯 **Looking to collaborate on** | Team projects: web apps, automation tools, and AI-driven products |
 | 🤝 **Looking for help with** | Learning from experienced developers and contributing to bigger projects |
-| 💬 **Ask me about** | Prompt engineering & AI workflows 🤖 |
+| 💬 **Ask me about** | Prompt engineering & AI workflows |
 | ⚡ **Fun fact** | I let AI do the heavy lifting, then add the human touch |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2f8fe8,100:e5383b" width="100%" alt="divider" />
@@ -62,13 +62,18 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 
 <div align="center">
 
-<a href="https://github.com/AmirDehghanKar/ActivityTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirDehghanKar&repo=ActivityTracker&bg_color=0b0d12&title_color=4da8ff&icon_color=e5383b&text_color=c9d1d9&border_color=1f6fc2&show_owner=true" alt="ZISTRO" />
-</a>
+<img src="assets/zistro.png" alt="ZISTRO" width="140" />
+
+### ZISTRO
 
 **ZISTRO** — اپلیکیشن اندروید برای پیگیری فعالیت‌های روزانه با تقویم شمسی، امتیازدهی رنگی و یادآوری هوشمند
 <br/>
 *An Android app for daily activity tracking with a Jalali calendar, color-coded scoring and smart reminders*
+
+<br/>
+
+<a href="https://github.com/AmirDehghanKar/ActivityTracker"><img src="https://img.shields.io/badge/Source-GitHub-2f8fe8?style=for-the-badge&logo=github&logoColor=white&labelColor=0b0d12" alt="source" /></a>
+<a href="https://github.com/AmirDehghanKar/ActivityTracker/releases/latest"><img src="https://img.shields.io/badge/Download-APK-e5383b?style=for-the-badge&logo=android&logoColor=white&labelColor=0b0d12" alt="download" /></a>
 
 </div>
 
@@ -96,14 +101,7 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmirDehghanKar&show_icons=true&bg_color=0b0d12&title_color=4da8ff&icon_color=e5383b&text_color=c9d1d9&border_color=1f6fc2&locale=en" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDehghanKar&layout=compact&bg_color=0b0d12&title_color=4da8ff&text_color=c9d1d9&border_color=1f6fc2&locale=en" alt="top languages" />
-
 <img src="https://streak-stats.demolab.com?user=AmirDehghanKar&theme=dark&background=0B0D12&ring=E5383B&fire=E5383B&currStreakNum=4DA8FF&sideNums=4DA8FF&currStreakLabel=E5383B&sideLabels=C9D1D9&dates=8B949E&border=1F6FC2" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmirDehghanKar&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirDehghanKar&bg_color=0b0d12&color=4da8ff&line=2f8fe8&point=e5383b&area=true&area_color=1f6fc2&hide_border=true" alt="activity graph" />
 
 </div>
 
