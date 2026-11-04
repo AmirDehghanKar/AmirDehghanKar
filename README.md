@@ -120,8 +120,8 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 
 <a href="https://webular.ir/"><img src="https://img.shields.io/badge/🌐%20Projects-webular.ir-2f8fe8?style=for-the-badge&labelColor=0b0d12" alt="projects" /></a>
 <a href="https://webular.ir/blog/"><img src="https://img.shields.io/badge/📝%20Blog-webular.ir%2Fblog-e5383b?style=for-the-badge&labelColor=0b0d12" alt="blog" /></a>
-<a href="https://drive.google.com/file/d/1QA59Wrs02LpEguBe3uw9x7I1sgEsqcZJ/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-Experiences-2f8fe8?style=for-the-badge&labelColor=0b0d12" alt="resume" /></a>
-
+<a href="https://drive.google.com/file/d/1QA59Wrs02LpEguBe3uw9x7I1sgEsqcZJ/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-English-2f8fe8?style=for-the-badge&labelColor=0b0d12" alt="English resume" /></a>
+<a href="https://drive.google.com/file/d/1FapR9dUqu_t-5Iv6nixwv0hqtW6C7s_V/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-Persian-e5383b?style=for-the-badge&labelColor=0b0d12" alt="Persian resume" /></a>
 </div>
 
 <br/>
