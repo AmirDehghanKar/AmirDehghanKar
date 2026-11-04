@@ -1,43 +1,138 @@
-# Hi 👋, I'm AmirMohammad Dehghankar | امیرمحمد دهقانکار
+<div align="center">
 
-### WordPress Web Designer & Python Developer | AI-Powered Builder 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:003566,100:ffc300&text=AmirMohammad%20Dehghankar&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=%D8%A7%D9%85%DB%8C%D8%B1%D9%85%D8%AD%D9%85%D8%AF%20%D8%AF%D9%87%D9%82%D8%A7%D9%86%E2%80%8C%DA%A9%D8%A7%D8%B1&descSize=24&descAlignY=60&animation=fadeIn" alt="header" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmirDehghanKar&label=Profile views&color=0e75b6&style=flat" alt="AmirDehghanKar" /> </p>
+<a href="https://github.com/AmirDehghanKar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFC300&center=true&vCenter=true&width=650&lines=WordPress+Web+Designer+%F0%9F%8E%A8;Python+Developer+%F0%9F%90%8D;AI-Powered+Builder+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AmirDehghanKar" alt="AmirDehghanKar" /></a> </p>
+<br/>
 
-- 🔭 I'm currently working on **Building professional WordPress websites and developing Python projects**
+<img src="https://komarev.com/ghpvc/?username=AmirDehghanKar&label=Profile%20views&color=003566&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/badge/Made%20with-Python-ffc300?style=for-the-badge&logo=python&logoColor=003566" alt="python" />
+<img src="https://img.shields.io/badge/WordPress-Designer-003566?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
 
-- 🌱 I'm currently learning **Advanced Python, AI integration, and professional team workflows with Git**
+<br/><br/>
 
-- 👯 I'm looking to collaborate on **Team projects with a professional mindset: web apps, automation tools, and AI-driven products**
+[🇮🇷 فارسی](#-درباره-من) &nbsp;•&nbsp; [🇬🇧 English](#-about-me) &nbsp;•&nbsp; [🛠 Tech](#-tech-stack--ابزارها) &nbsp;•&nbsp; [📊 Stats](#-github-stats--آمار) &nbsp;•&nbsp; [📫 Contact](#-contact--ارتباط)
 
-- 🤝 I'm looking for help with **Learning from experienced developers and contributing to bigger projects**
+</div>
 
-- 💬 Ask me about **Prompt engineering & AI workflows 🤖**
+---
 
-- 📫 How to reach me **amirdehghan438@gmail.com**
+<a name="-درباره-من"></a>
 
-- ⚡ Fun fact **I let AI do the heavy lifting, then add the human touch 🎯**
+<div dir="rtl" align="right">
 
-- 👨‍💻 All of my projects are available at **[https://webular.ir/](https://webular.ir/)**
+## 👋 درباره من
 
-- 📝 I regularly write articles on **[https://webular.ir/blog/](https://webular.ir/blog/)**
+سلام! من **امیرمحمد دهقان‌کار** هستم؛ طراح وب‌سایت با **وردپرس** و برنامه‌نویس **پایتون**. عاشق ساختن پروژه‌های بزرگ و یادگرفتن چیزهای جدیدم و معتقدم **هوش مصنوعی** بهترین دستیار برای سرعت گرفتن است، به شرطی که لمس انسانی را به آن اضافه کنیم 🎯
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1QA59Wrs02LpEguBe3uw9x7I1sgEsqcZJ/view?usp=sharing](https://drive.google.com/file/d/1QA59Wrs02LpEguBe3uw9x7I1sgEsqcZJ/view?usp=sharing)**
+| | |
+|:--|:--|
+| 🔭 **مشغول به** | طراحی وب‌سایت‌های حرفه‌ای با وردپرس و توسعه پروژه‌های پایتون |
+| 🌱 **در حال یادگیری** | پایتون پیشرفته، ادغام هوش مصنوعی و کار تیمی حرفه‌ای با Git |
+| 👯 **دنبال همکاری در** | پروژه‌های تیمی: وب‌اپ، ابزارهای اتوماسیون و محصولات مبتنی بر هوش مصنوعی |
+| 🤝 **کمک می‌خواهم برای** | یادگرفتن از توسعه‌دهندگان باتجربه و مشارکت در پروژه‌های بزرگ‌تر |
+| 💬 **از من بپرس درباره** | مهندسی پرامپت و گردش‌کارهای هوش مصنوعی 🤖 |
+| ⚡ **نکته جالب** | کارهای سنگین را به AI می‌سپارم، بعد لمس انسانی را اضافه می‌کنم |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/AmirDehghanKar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AmirDehghanKar" height="30" width="40" /></a>
-<a href="https://instagram.com/_amir.dk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amir.dk_" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirDehghanKar&show_icons=true&locale=en&layout=compact" alt="AmirDehghanKar" /></p>
+<a name="-about-me"></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmirDehghanKar&show_icons=true&locale=en" alt="AmirDehghanKar" /></p>
+## 👋 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirDehghanKar&" alt="AmirDehghanKar" /></p>
+Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Python** developer who loves building big things and learning something new every day. I believe **AI** is the best accelerator, as long as you add the human touch on top 🎯
 
+| | |
+|:--|:--|
+| 🔭 **Currently working on** | Professional WordPress websites and Python projects |
+| 🌱 **Currently learning** | Advanced Python, AI integration, and professional team workflows with Git |
+| 👯 **Looking to collaborate on** | Team projects: web apps, automation tools, and AI-driven products |
+| 🤝 **Looking for help with** | Learning from experienced developers and contributing to bigger projects |
+| 💬 **Ask me about** | Prompt engineering & AI workflows 🤖 |
+| ⚡ **Fun fact** | I let AI do the heavy lifting, then add the human touch |
+
+---
+
+## 🚀 Featured Project / پروژه ویژه
+
+<div align="center">
+
+<a href="https://github.com/AmirDehghanKar/ActivityTracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirDehghanKar&repo=ActivityTracker&theme=transparent&title_color=ffc300&icon_color=ffc300&text_color=8b949e&border_color=003566&show_owner=true" alt="ZISTRO" />
+</a>
+
+**ZISTRO** — اپلیکیشن اندروید برای پیگیری فعالیت‌های روزانه با تقویم شمسی، امتیازدهی رنگی و یادآوری هوشمند
+<br/>
+*An Android app for daily activity tracking with a Jalali calendar, color-coded scoring and smart reminders*
+
+</div>
+
+---
+
+<a name="-tech-stack--ابزارها"></a>
+
+## 🛠 Tech Stack / ابزارها
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,wordpress,html,css,java,mysql,postgres,git,github,androidstudio&perline=10" alt="main stack" />
+<br/>
+<img src="https://skillicons.dev/icons?i=numpy,matlab,unity,ai&perline=10" alt="more tools" />
+<a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/></a>
+<a href="https://matplotlib.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="48" height="48"/></a>
+
+</div>
+
+---
+
+<a name="-github-stats--آمار"></a>
+
+## 📊 GitHub Stats / آمار گیت‌هاب
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmirDehghanKar&show_icons=true&hide_border=false&bg_color=0d1117&title_color=ffc300&icon_color=ffc300&text_color=c9d1d9&border_color=003566&locale=en" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirDehghanKar&layout=compact&bg_color=0d1117&title_color=ffc300&text_color=c9d1d9&border_color=003566&locale=en" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=AmirDehghanKar&theme=dark&background=0D1117&ring=FFC300&fire=FFC300&currStreakLabel=FFC300&border=003566" alt="streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=AmirDehghanKar&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirDehghanKar&bg_color=0d1117&color=ffc300&line=ffc300&point=ffffff&area=true&area_color=003566&hide_border=true" alt="activity graph" />
+
+</div>
+
+---
+
+<a name="-contact--ارتباط"></a>
+
+## 📫 Contact / ارتباط
+
+<div align="center">
+
+<a href="mailto:amirdehghan438@gmail.com"><img src="https://img.shields.io/badge/Email-amirdehghan438%40gmail.com-ffc300?style=for-the-badge&logo=gmail&logoColor=003566" alt="email" /></a>
+<a href="https://t.me/Poseidon_8"><img src="https://img.shields.io/badge/Telegram-@Poseidon__8-003566?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
+<a href="https://instagram.com/_amir.dk_"><img src="https://img.shields.io/badge/Instagram-@__amir.dk__-ffc300?style=for-the-badge&logo=instagram&logoColor=003566" alt="instagram" /></a>
+
+<br/>
+
+<a href="https://webular.ir/"><img src="https://img.shields.io/badge/🌐%20Projects-webular.ir-003566?style=for-the-badge" alt="projects" /></a>
+<a href="https://webular.ir/blog/"><img src="https://img.shields.io/badge/📝%20Blog-webular.ir%2Fblog-ffc300?style=for-the-badge&logoColor=003566" alt="blog" /></a>
+<a href="https://drive.google.com/file/d/1QA59Wrs02LpEguBe3uw9x7I1sgEsqcZJ/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-Experiences-003566?style=for-the-badge" alt="resume" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*«I let AI do the heavy lifting, then add the human touch.»* 🎯
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ffc300,100:003566&section=footer" alt="footer" />
+
+</div>
