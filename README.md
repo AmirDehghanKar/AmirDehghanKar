@@ -75,13 +75,16 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 <a href="https://github.com/AmirDehghanKar/ActivityTracker/releases/latest"><img src="https://img.shields.io/badge/Download-APK-e5383b?style=for-the-badge&logo=android&logoColor=white&labelColor=0b0d12" alt="download" /></a>
 
 </div>
+<br/>
+
+
+<br/>
 <div align="center">
 
-### 🚀 Featured Project / پروژه ویژه
 
 <br>
 
-<img src="https://raw.githubusercontent.com/AmirDehghanKar/assets/icon.png" width="140" alt="AltoShift Icon"/>
+<img src="assets/icon.png" alt="AltoShift" width="140" />
 
 ### AltoShift
 
