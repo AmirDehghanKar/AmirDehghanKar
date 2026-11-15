@@ -81,7 +81,7 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 
 <br>
 
-<img src="https://raw.githubusercontent.com/AmirDehghanKar/AltoShift/main/assets/icon.png" width="140" alt="AltoShift Icon"/>
+<img src="https://raw.githubusercontent.com/AmirDehghanKar/assets/icon.png" width="140" alt="AltoShift Icon"/>
 
 ### AltoShift
 
