@@ -93,7 +93,7 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 
 <br>
 
-<a href="https://github.com/AmirDehghanKar/AltoShift/releases/latest">
+<a href="https://github.com/AmirDehghanKar/Keyboard_Switcher/releases">
   <img src="https://img.shields.io/badge/DOWNLOAD-Setup.exe-6c5ce7?style=for-the-badge&logo=windows&logoColor=white" alt="Download"/>
 </a>
 
