@@ -75,7 +75,26 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 <a href="https://github.com/AmirDehghanKar/ActivityTracker/releases/latest"><img src="https://img.shields.io/badge/Download-APK-e5383b?style=for-the-badge&logo=android&logoColor=white&labelColor=0b0d12" alt="download" /></a>
 
 </div>
+<div align="center">
 
+### 🚀 Featured Project / پروژه ویژه
+
+<br>
+
+<img src="https://raw.githubusercontent.com/AmirDehghanKar/AltoShift/main/assets/icon.png" width="140" alt="AltoShift Icon"/>
+
+### AltoShift
+
+**تغییر خودکار زبان کیبورد بر اساس برنامه‌ی فعال**  
+*Automatic keyboard language switching based on the active app*
+
+<br>
+
+<a href="https://github.com/AmirDehghanKar/AltoShift/releases/latest">
+  <img src="https://img.shields.io/badge/DOWNLOAD-Setup.exe-6c5ce7?style=for-the-badge&logo=windows&logoColor=white" alt="Download"/>
+</a>
+
+</div>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:e5383b,100:2f8fe8" width="100%" alt="divider" />
 
 <a name="-tech-stack--ابزارها"></a>
