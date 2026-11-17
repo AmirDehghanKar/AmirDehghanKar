@@ -11,12 +11,17 @@
 <img src="https://komarev.com/ghpvc/?username=AmirDehghanKar&label=Profile%20views&color=e5383b&labelColor=0b0d12&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/badge/Made%20with-Python-2f8fe8?style=for-the-badge&logo=python&logoColor=white&labelColor=0b0d12" alt="python" />
 <img src="https://img.shields.io/badge/WordPress-Designer-e5383b?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0b0d12" alt="wordpress" />
+<br/>
+<a href="https://drive.google.com/file/d/1UlArYJHlx8-Edbx85XKi_D2SPaVo1xVg/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-English-2f8fe8?style=for-the-badge&labelColor=0b0d12" alt="English resume" /></a>
+<a href="https://drive.google.com/file/d/1nCYmt0mBGbfBAthgU_puqgR3N-hUGUYw/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-Persian-e5383b?style=for-the-badge&labelColor=0b0d12" alt="Persian resume" /></a>
 
 <br/><br/>
 
 [🇮🇷 فارسی](#-درباره-من) &nbsp;•&nbsp; [🇬🇧 English](#-about-me) &nbsp;•&nbsp; [🛠 Tech](#-tech-stack--ابزارها) &nbsp;•&nbsp; [📊 Stats](#-github-stats--آمار) &nbsp;•&nbsp; [📫 Contact](#-contact--ارتباط)
 
 </div>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2f8fe8,100:e5383b" width="100%" alt="divider" />
 
@@ -140,10 +145,8 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 
 <br/>
 
-<a href="https://webular.ir/"><img src="https://img.shields.io/badge/🌐%20Projects-webular.ir-2f8fe8?style=for-the-badge&labelColor=0b0d12" alt="projects" /></a>
-<a href="https://webular.ir/blog/"><img src="https://img.shields.io/badge/📝%20Blog-webular.ir%2Fblog-e5383b?style=for-the-badge&labelColor=0b0d12" alt="blog" /></a>
-<a href="https://drive.google.com/file/d/1QA59Wrs02LpEguBe3uw9x7I1sgEsqcZJ/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-English-2f8fe8?style=for-the-badge&labelColor=0b0d12" alt="English resume" /></a>
-<a href="https://drive.google.com/file/d/1FapR9dUqu_t-5Iv6nixwv0hqtW6C7s_V/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-Persian-e5383b?style=for-the-badge&labelColor=0b0d12" alt="Persian resume" /></a>
+<a href="https://drive.google.com/file/d/1UlArYJHlx8-Edbx85XKi_D2SPaVo1xVg/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-English-2f8fe8?style=for-the-badge&labelColor=0b0d12" alt="English resume" /></a>
+<a href="https://drive.google.com/file/d/1nCYmt0mBGbfBAthgU_puqgR3N-hUGUYw/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-Persian-e5383b?style=for-the-badge&labelColor=0b0d12" alt="Persian resume" /></a>
 </div>
 
 <br/>
