@@ -135,17 +135,13 @@ Hi there! I'm **AmirMohammad Dehghankar**: a **WordPress** web designer and **Py
 ## 📫 Contact / ارتباط
 
 <div align="center">
-
 <a href="mailto:amirdehghan438@gmail.com"><img src="https://img.shields.io/badge/Email-amirdehghan438%40gmail.com-e5383b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0d12" alt="email" /></a>
 <a href="https://t.me/Poseidon_8"><img src="https://img.shields.io/badge/Telegram-@Poseidon__8-2f8fe8?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0d12" alt="telegram" /></a>
 <a href="https://instagram.com/_amir.dk_"><img src="https://img.shields.io/badge/Instagram-@__amir.dk__-e5383b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0d12" alt="instagram" /></a>
-
 <br/>
-
 <a href="https://drive.google.com/file/d/1UlArYJHlx8-Edbx85XKi_D2SPaVo1xVg/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-English-2f8fe8?style=for-the-badge&labelColor=0b0d12" alt="English resume" /></a>
 <a href="https://drive.google.com/file/d/1nCYmt0mBGbfBAthgU_puqgR3N-hUGUYw/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-Persian-e5383b?style=for-the-badge&labelColor=0b0d12" alt="Persian resume" /></a>
 </div>
-
 <br/>
 
 <div align="center">
